@@ -1,0 +1,4 @@
+site_name: vaccination-card
+site_description: Vaccination Card is a package that provides rudiments to build a vaccination card application, built upon Django Rest Framework.
+repo_url: https://github.com/lucsgiovanne/vaccination-card
+site_dir: html
